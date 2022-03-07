@@ -1,0 +1,1 @@
+Este arquivo foi criado localmente no git, depois foi adicionado e comitado no github para completar o desafio.
